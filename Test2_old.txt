@@ -1,0 +1,21 @@
+King
+/King Slave1 5 2
+/King Slave2 3 0
+/King/Slave2 Slave2.1 3 0
+endtree
+/King/Slave1
+/King/Slave2/Slave1
+/King
+//King
+/King
+//
+1 Slave1 King
+4 Slave1 Slave2.1
+0
+King from_King
+Slave2 form_slave2
+Slave1 from__slave1
+ee fdf
+dgg dkfkfd
+sdfsf kdk
+endsignals

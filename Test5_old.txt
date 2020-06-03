@@ -1,0 +1,6 @@
+King
+/King Slave1 4 4
+/King Slave2 4 2
+/King Slave3 6 -5
+endtree
+//

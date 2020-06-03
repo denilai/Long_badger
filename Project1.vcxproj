@@ -139,13 +139,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Lord.cpp" />
-    <ClCompile Include="Main.cpp" />
-    <ClCompile Include="Tree.cpp" />
+    <ClCompile Include="childs.cpp" />
+    <ClCompile Include="friend_procedures.cpp" />
+    <ClCompile Include="lord.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="i_base.cpp" />
+    <ClCompile Include="snoopes.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Lord.h" />
-    <ClInclude Include="Tree.h" />
+    <ClInclude Include="childs.h" />
+    <ClInclude Include="i_base.h" />
+    <ClInclude Include="lord.h" />
+    <ClInclude Include="snoopes.h" />
+    <ClInclude Include="structures.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

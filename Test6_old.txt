@@ -1,0 +1,15 @@
+King
+/King Slave1 2 1
+/King Slave2 2 -1
+/King Slave4 2 1
+/King/Slave2 Slave4 2 1
+/King/Slave1 Slave7 2 -8
+/King/Slave2 Slave5 2 1
+/King/Slave2 Slave6 2 1
+/King/Slave2/Slave6 Slave8 2 1
+/King/Slave4 Slave9 2 1
+endtree
+/King/Slave2/Slave4
+/King/Slave12/Slave4
+//Slave8
+//
